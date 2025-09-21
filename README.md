@@ -85,4 +85,6 @@ Este comando abrirá automáticamente una nueva pestaña en tu navegador en http
 
 ¡Y listo! Ahora tienes el sistema "Gestor Pro" ❤️ corriendo localmente en tu máquina.
 
+© 2025 Felipe Lino – Todos los derechos reservados. Consulte LICENSE.txt para más detalles.
+
 ¡Gracias por revisar mi proyecto!
