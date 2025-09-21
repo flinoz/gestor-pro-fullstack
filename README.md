@@ -94,6 +94,6 @@ Para más detalles, consulta el archivo LICENSE.
 
 contacto: flinoz91@gmail.com
 
-GitHub: [Enlace a tu perfil de GitHub]
+GitHub: https://github.com/flinoz/gestor-pro-fullstack
 
 ¡Gracias por revisar este proyecto!
