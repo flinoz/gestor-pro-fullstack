@@ -90,4 +90,10 @@ Copyright (c) 2025 Felipe Lino. Todos los derechos reservados.
 
 Para más detalles, consulta el archivo LICENSE.
 
-¡Gracias por revisar mi proyecto!
+👨‍💻 Autor
+
+contacto: flinoz91@gmail.com
+
+GitHub: [Enlace a tu perfil de GitHub]
+
+¡Gracias por revisar este proyecto!
