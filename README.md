@@ -1,4 +1,3 @@
-Gestor Pro: Sistema de Gestión de Proyectos
 ¡Hola! Este es el repositorio del proyecto "Gestor Pro", una aplicación web full-stack diseñada para la gestión eficiente de proyectos de desarrollo de software.
 
 1. Introducción y Objetivo del Proyecto
