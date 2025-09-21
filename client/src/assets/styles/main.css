@@ -1,0 +1,52 @@
+/*!
+ * Sistema: "Gestor Pro"
+ * Copyright (c) 2025 Felipe Lino. Todos los derechos reservados.
+ * Uso, reproducción o distribución sin autorización expresa está prohibida.
+ * Jurisdicción: México
+ */
+
+/* Este archivo contendrá estilos globales y animaciones personalizadas.
+La mayor parte del diseño se manejará con Tailwind CSS directamente en los componentes,
+pero este es el lugar ideal para estilos que se repiten o para animaciones complejas.
+*/
+
+/* Establece la fuente base para toda la aplicación */
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Animaciones personalizadas para la entrada de elementos */
+@keyframes fade-in-down {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fade-in-up {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Clases de utilidad para usar las animaciones */
+.animate-fade-in-down {
+    animation: fade-in-down 0.3s ease-out forwards;
+}
+
+.animate-fade-in-up {
+    animation: fade-in-up 0.3s ease-out forwards;
+}

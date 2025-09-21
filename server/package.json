@@ -1,0 +1,26 @@
+{
+  "name": "gestor-pro-server",
+  "version": "1.0.0",
+  "description": "Servidor backend para la aplicación Gestor Pro.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "setup-db": "node database/insert_sample_data.js",
+    "reset-db": "mysql -u root -p < database/gestor_pro_db.sql && npm run setup-db"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
