@@ -86,7 +86,7 @@ Este comando abrirá automáticamente tu navegador en http://localhost:3000.
 📜 Licencia
 Este proyecto se encuentra bajo una licencia de derechos de autor exclusivos.
 
-Copyright (c) 2025 Felipe Lino. Todos los derechos reservados.
+Copyright (c) 2025 Flinoz. Todos los derechos reservados.
 
 Para más detalles, consulta el archivo LICENSE.
 
